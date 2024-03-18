@@ -1,0 +1,149 @@
+*
+{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.part1
+{
+  width: 100%;
+  background-color: beige;
+}
+.main
+{
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+}
+.img1
+{
+  width: 30%;
+  border-radius:20px ;
+  margin: 10px;
+  margin-left: 150px;
+}
+.img1 img
+{
+  width: 100%;
+  border-radius: 20px;
+}
+.p1 
+{
+  display: block;
+  border: solid 3px rgb(218, 202, 153) ;
+  border-radius: 20px;
+  background-image: linear-gradient(rgb(218, 202, 153),beige);
+  width: 45%;
+  text-align: center;
+  line-height: 30px;
+  margin: 10px;
+  padding: 150px;
+}
+.part2
+{
+  width: 100%;
+  justify-content: space-between;
+  background-color: white;
+}
+.main2
+{
+  width: 95%;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+}
+.img2
+{
+  width: 30%;
+  border-radius: 20px;
+  margin: 10px;
+  margin-right: 150px;
+}
+.img2 img
+{
+  width: 100%;
+  border-radius: 20px;
+}
+.p2
+{
+  display: block;
+  background-image: linear-gradient( rgb(88, 246, 246),rgb(202, 228, 238),darkblue);
+  border: 3px solid darkblue;
+  border-radius: 20px;
+  width: 45%;
+  text-align: center;
+  line-height: 30px;
+  margin-left: 150px;
+  padding: 150px;
+}
+.part3
+{
+  width: 100%;
+  background-color: beige;
+}
+.main3
+{
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+}
+.img3
+{
+  width: 30%;
+  border-radius: 20px;
+  margin: 10px;
+  margin-left: 150px;
+}
+.img3 img
+{
+  width: 100%;
+  border-radius: 20px;
+}
+.p3
+{
+  display: block;
+  background-image: linear-gradient(rgb(218, 202, 153),beige);
+  border: 3px solid rgb(218, 202, 153);
+  border-radius: 20px;
+  width: 45%;
+  text-align: center;
+  line-height: 30px;
+  margin: 10px;
+  padding: 150px;
+}
+.part4
+{
+  width: 100%;
+  background-color: white;
+}
+.main4
+{
+  width: 95%;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+}
+.img4
+{
+  width: 30%;
+  border-radius: 20px;
+  margin: 10px;
+  margin-right: 150px;
+}
+.img4 img
+{
+  width: 100%;
+  border-radius: 20px;
+}
+.p4
+{
+  display: block;
+  background-image: linear-gradient( rgb(88, 246, 246),rgb(202, 228, 238),darkblue);
+  border: 3px solid darkblue;
+  border-radius: 20px;
+  width: 45%;
+  text-align: center;
+  line-height: 30px;
+  margin-left: 150px;
+  padding: 150px;   
+}
