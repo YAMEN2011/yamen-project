@@ -1,0 +1,155 @@
+*
+{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.header
+{
+    background-image: url(images/3d-render-wooden-table-looking-out-blurred-background-with-bookcase.jpg);
+    height: 100vh;
+    background-position: center center;
+    background-size: cover ;
+    text-align: center;
+    padding: 15%;
+    color: white;
+}
+.header h1
+{
+    font-size: 100px;
+    font-weight: 50px;
+}
+.header h3
+{
+    font-size: 90px;
+    font-weight: 35px;
+}
+.header h4
+{
+    font-size: 30px;
+}
+.header a
+{
+  color: white; 
+  font-size: 60px;  
+  text-decoration: none ; 
+}
+
+.container
+{
+    width: 100%;
+    background-color: ivory; 
+}
+.search
+{
+    text-align: center;
+    padding: 40px;
+    width: 100%;
+}
+.search input
+{
+    border-radius: 60px;
+    width: 40%;
+    height: 60px;
+}
+.k
+{
+    text-align: center;
+    width: 45%;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    line-height: 30px;
+}
+.list
+{
+    width: 100%;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+.list a
+{
+  text-decoration: none;
+  color: rgba(171, 43, 43, 0.755);
+  font-size: 50px;
+}
+.p1
+{
+    width:45% ;
+    height: 100%;
+    background-color: beige;
+    border-radius: 50px;
+    padding: 170px;
+}
+.end
+{
+    width: 100%;
+    background-color: brown;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.text
+{
+    width: 45%;
+    font-size: larger;
+    letter-spacing: 1.5px;
+    line-height: 30px;
+    padding: 160px; 
+    text-align: right;  
+}
+.text ul li
+{
+    list-style: none;
+}
+.location
+{
+    width: 45%;
+}
+.الطفل
+{
+    background-color: beige;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    line-height: 30px;
+    padding: 20px;
+}
+
+.img1
+{
+    width:40% ;
+    margin: auto;
+    padding: 20px;
+}
+.img1 img
+{
+  width: 100%;
+}
+.الطفل p
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+.l1
+{
+    text-align: center;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    width: 40%;
+}
+.y
+{
+    font-size: xx-large;
+    font-weight: bold;
+}
+a
+{
+    text-decoration: none;
+    color: #000;
+}
